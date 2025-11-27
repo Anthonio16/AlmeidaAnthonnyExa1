@@ -1,6 +1,6 @@
-# Prueba de Programación II - Examen Bimestral
+# Examen de Programación I - Examen Bimestral
 
-**Nombre:** Anthony Almeida
+**Nombre:** Almeida Reyes Anthonny Joel
 
 **Número de cédula:** 1724077829
 
@@ -10,4 +10,4 @@
 
 El código completo se encuentra disponible en el siguiente enlace:
 
-🔗 **https://github.com/Anthonio16/AlmeidaAnthonnyExa1**
+https://github.com/Anthonio16/AlmeidaAnthonnyExa1
